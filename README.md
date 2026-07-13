@@ -1,5 +1,16 @@
 # litesvm-docs
 
+> [!WARNING]
+> **This repository is being archived.** The LiteSVM documentation has moved to
+> the official Solana docs and is no longer maintained here.
+>
+> - **Read the docs:** https://solana.com/docs/tools/litesvm
+> - **Edit the docs:** https://github.com/solana-foundation/solana-com/tree/main/apps/docs/content/docs/en/tools/litesvm
+>
+> All URLs on the old docs site now permanently redirect to their new home on
+> solana.com. Please open issues and pull requests against
+> [`solana-foundation/solana-com`](https://github.com/solana-foundation/solana-com).
+
 This is a Next.js application generated with
 [Create Fumadocs](https://github.com/fuma-nama/fumadocs).
 
